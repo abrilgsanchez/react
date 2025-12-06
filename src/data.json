@@ -1,0 +1,6 @@
+[
+  { "id": 1, "nombre": "Campera", "categoria": "abrigos" },
+  { "id": 2, "nombre": "Zapatillas", "categoria": "accesorios" },
+  { "id": 3, "nombre": "Sweater", "categoria": "abrigos" },
+  { "id": 4, "nombre": "Mochila", "categoria": "accesorios" }
+]
